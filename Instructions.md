@@ -2,7 +2,7 @@ This file will contain information on every aspect of the game and how to use it
 
 
 **QUIT AND SETTINGS**
-Quit will quit the game surprisingly. Settings is misleading as there is only 1 setting and it is the keybind to reset. To change it simply click on the box and press the key you want reset to be bound to, then press enter. **DO NOT SET THIS TO A LETTER**. If you do, it will reset while you are typing words during the practices. I would recommend setting it to a key near the letters on your keyboard, but not too close that you accidentally press it.
+Quit will quit the game surprisingly. Settings is where you can set your keybind for resetting and what IDE the program is being run on. To change it simply click on the box and press the key you want reset to be bound to, then press enter. **DO NOT SET THIS TO A LETTER**. If you do, it will reset while you are typing words during the practices. I would recommend setting it to a key near the letters on your keyboard, but not too close that you accidentally press it. **MAKE SURE YOU SET THE IDE** because if you don't, the Top Times function will not work, and possibly other features in the future.
 
 **RECOGNITION PRACTICE**
 Recognition practice is very important when it comes to Duotrigordle. This is designed to improve how quickly you can recognize words given some starting words. When you click on it, it will ask for the number of starting words. This can range from 1-5. After this it will ask for your starting words. These are the words that will help you recognize the words. For speedrunning, most people use 4 or 5 starting words. Anymore than 5, and it won't be possible to finish the Duotrigordle. I would recommend using words that have unique letters. The combination that I use is **glent, brick, jumpy, waqfs, and vozhd**. There are many other combinations, and find the one that best suites you. Once you have inputted a word, it will tell you whether you are right or wrong, and you can reset to try another word. For each word a time will be stored in "recognition_top_times" that symbolizes the fastest you have ever recognized that word. If there is no time, it means you have not gotten that word yet. 
@@ -21,3 +21,6 @@ This practice is a bit interesting. This is strictly for speedrunners who want t
 
 **DISCLAIMER**
 This is still a work in progress, and features are still being added or changed. It will not be bug free, as I did not rigorously test the software. If you found a bug, want to suggest a feature, or want to help with development/design feel free to email me at minestone4306gmail.com or dm me on discord at minestone4306. 
+
+**FUTURE UPDATES**
+A major update I have planned is a config file so that settings don't need to be inputted each time the program is run. This would make it much more user friendly. Possibly adding a live leaderboard for all players, so it is more competitive, although this would require some work.
