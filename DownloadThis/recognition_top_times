@@ -1,32 +1,32 @@
-aback: 1.45 
+aback
 abase
 abate
 abbey
 abbot
 abhor
 abide
-abled: 1.57 
+abled
 abode
 abort
 about
 above
 abuse
-abyss: 1.59 
+abyss
 acorn
 acrid
 actor
 acute
 adage
 adapt
-adept: 1.74 
+adept
 adieu
 admin
 admit
 adobe
 adopt
 adore
-adorn: 15.62 
-adult: 1.74 
+adorn
+adult
 affix
 afire
 afoot
@@ -35,17 +35,17 @@ after
 again
 agape
 agate
-agent: 1.0 
-agile: 5.46 
+agent
+agile
 aging
 aglow
-agony: 1.34 
+agony
 agree
 ahead
 aider
 aisle
 alarm
-album: 1.73 
+album
 alert
 algae
 alibi
@@ -57,7 +57,7 @@ allay
 alley
 allot
 allow
-alloy: 1.25 
+alloy
 aloft
 alone
 along
@@ -67,18 +67,18 @@ alpha
 altar
 alter
 amass
-amaze: 1.43 
+amaze
 amber
 amble
 amend
 amiss
 amity
-among: 1.16 
+among
 ample
 amply
 amuse
 angel
-anger: 4.96 
+anger
 angle
 angry
 angst
@@ -92,23 +92,23 @@ antic
 anvil
 aorta
 apart
-aphid: 1.75 
+aphid
 aping
-apnea: 3.14 
+apnea
 apple
 apply
-apron: 2.7 
+apron
 aptly
 arbor
 ardor
-arena: 1.45 
+arena
 argue
 arise
 armor
 aroma
 arose
 array
-arrow: 1.48 
+arrow
 arson
 artsy
 ascot
@@ -124,18 +124,18 @@ audio
 audit
 augur
 aunty
-avail: 1.69 
+avail
 avert
 avian
 avoid
 await
 awake
 award
-aware: 1.78 
+aware
 awash
 awful
 awoke
-axial: 1.53 
+axial
 axiom
 axion
 azure
@@ -152,13 +152,13 @@ banjo
 barge
 baron
 basal
-basic: 2.29 
+basic
 basil
 basin
 basis
 baste
 batch
-bathe: 1.62 
+bathe
 baton
 batty
 bawdy
@@ -166,8 +166,8 @@ bayou
 beach
 beady
 beard
-beast: 1.36 
-beech: 2.21 
+beast
+beech
 beefy
 befit
 began
@@ -179,17 +179,17 @@ being
 belch
 belie
 belle
-belly: 8.7 
+belly
 below
 bench
 beret
-berry: 1.27 
-berth: 1.34 
+berry
+berth
 beset
 betel
 bevel
 bezel
-bible: 2.41 
+bible
 bicep
 biddy
 bigot
@@ -206,14 +206,14 @@ black
 blade
 blame
 bland
-blank: 2.03 
+blank
 blare
 blast
 blaze
 bleak
 bleat
 bleed
-bleep: 1.0 
+bleep
 blend
 bless
 blimp
@@ -230,7 +230,7 @@ bloom
 blown
 bluer
 bluff
-blunt: 1.01 
+blunt
 blurb
 blurt
 blush
@@ -254,8 +254,8 @@ botch
 bough
 boule
 bound
-bowel: 1.54 
-boxer: 2.87 
+bowel
+boxer
 brace
 braid
 brain
@@ -283,7 +283,7 @@ brisk
 broad
 broil
 broke
-brood: 0.99 
+brood
 brook
 broom
 broth
@@ -293,7 +293,7 @@ brush
 brute
 buddy
 budge
-buggy: 1.25 
+buggy
 bugle
 build
 built
@@ -302,7 +302,7 @@ bulky
 bully
 bunch
 bunny
-burly: 1.12 
+burly
 burnt
 burst
 bused
@@ -312,9 +312,9 @@ butte
 buxom
 buyer
 bylaw
-cabal: 1.17 
+cabal
 cabby
-cabin: 1.58 
+cabin
 cable
 cacao
 cache
@@ -360,7 +360,7 @@ charm
 chart
 chase
 chasm
-cheap: 5.19 
+cheap
 cheat
 check
 cheek
@@ -368,7 +368,7 @@ cheer
 chess
 chest
 chick
-chide: 1.78 
+chide
 chief
 child
 chili
@@ -392,7 +392,7 @@ cigar
 cinch
 circa
 civic
-civil: 2.5 
+civil
 clack
 claim
 clamp
@@ -405,18 +405,18 @@ clean
 clear
 cleat
 cleft
-clerk: 0.98 
+clerk
 click
 cliff
 climb
 cling
-clink: 1.26 
+clink
 cloak
 clock
 clone
 close
 cloth
-cloud: 1.66 
+cloud
 clout
 clove
 clown
@@ -427,7 +427,7 @@ clung
 coach
 coast
 cobra
-cocoa: 1.64 
+cocoa
 colon
 color
 comet
@@ -438,7 +438,7 @@ conch
 condo
 conic
 copse
-coral: 1.4 
+coral
 corer
 corny
 couch
@@ -461,12 +461,12 @@ crank
 crash
 crass
 crate
-crave: 1.66 
+crave
 crawl
 craze
 crazy
 creak
-cream: 1.3 
+cream
 credo
 creed
 creek
@@ -495,12 +495,12 @@ crude
 cruel
 crumb
 crump
-crush: 1.24 
+crush
 crust
 crypt
 cubic
 cumin
-curio: 1.68 
+curio
 curly
 curry
 curse
@@ -548,12 +548,12 @@ detox
 deuce
 devil
 diary
-dicey: 1.4 
+dicey
 digit
 dilly
-dimly: 1.85 
+dimly
 diner
-dingo: 3.76 
+dingo
 dingy
 diode
 dirge
@@ -562,11 +562,11 @@ disco
 ditch
 ditto
 ditty
-diver: 2.26 
+diver
 dizzy
 dodge
 dodgy
-dogma: 2.93 
+dogma
 doing
 dolly
 donor
@@ -587,13 +587,13 @@ drank
 drape
 drawl
 drawn
-dread: 3.42 
+dread
 dream
 dress
 dried
 drier
 drift
-drill: 1.61 
+drill
 drink
 drive
 droit
@@ -610,11 +610,11 @@ dryer
 dryly
 duchy
 dully
-dummy: 1.39 
+dummy
 dumpy
 dunce
 dusky
-dusty: 2.03 
+dusty
 dutch
 duvet
 dwarf
@@ -633,17 +633,17 @@ eclat
 edict
 edify
 eerie
-egret: 1.8 
+egret
 eight
 eject
-eking: 1.31 
+eking
 elate
 elbow
-elder: 2.73 
+elder
 elect
 elegy
-elfin: 3.75 
-elide: 2.83 
+elfin
+elide
 elite
 elope
 elude
@@ -655,7 +655,7 @@ empty
 enact
 endow
 enema
-enemy: 1.46 
+enemy
 enjoy
 ennui
 ensue
@@ -666,9 +666,9 @@ epoch
 epoxy
 equal
 equip
-erase: 1.64 
+erase
 erect
-erode: 2.8 
+erode
 error
 erupt
 essay
@@ -687,22 +687,22 @@ exalt
 excel
 exert
 exile
-exist: 4.96 
+exist
 expel
 extol
 extra
 exult
 eying
 fable
-facet: 1.32 
+facet
 faint
-fairy: 1.92 
+fairy
 faith
 fancy
 fanny
 farce
-fatal: 7.35 
-fatty: 1.47 
+fatal
+fatty
 fault
 fauna
 favor
@@ -713,7 +713,7 @@ fella
 felon
 femme
 femur
-fence: 1.26 
+fence
 feral
 ferry
 fetal
@@ -727,7 +727,7 @@ ficus
 field
 fiend
 fiery
-fifth: 2.94 
+fifth
 fifty
 fight
 filer
@@ -748,21 +748,21 @@ flail
 flair
 flake
 flaky
-flame: 1.72 
-flank: 4.26 
+flame
+flank
 flare
-flash: 2.77 
+flash
 flask
 fleck
 fleet
 flesh
-flick: 1.41 
+flick
 flier
 fling
 flint
 flirt
 float
-flock: 1.19 
+flock
 flood
 floor
 flora
@@ -776,7 +776,7 @@ fluke
 flume
 flung
 flunk
-flush: 1.38 
+flush
 flute
 flyer
 foamy
@@ -810,8 +810,8 @@ frill
 frisk
 fritz
 frock
-frond: 1.56 
-front: 1.16 
+frond
+front
 frost
 froth
 frown
@@ -826,7 +826,7 @@ funny
 furor
 furry
 fussy
-fuzzy: 1.39 
+fuzzy
 gaffe
 gaily
 gamer
@@ -834,14 +834,14 @@ gamma
 gamut
 gassy
 gaudy
-gauge: 1.52 
+gauge
 gaunt
 gauze
 gavel
 gawky
 gayer
 gayly
-gazer: 33.01 
+gazer
 gecko
 geeky
 geese
@@ -851,14 +851,14 @@ ghost
 ghoul
 giant
 giddy
-gipsy: 3.01 
+gipsy
 girly
 girth
 given
 giver
 glade
 gland
-glare: 1.61 
+glare
 glass
 glaze
 gleam
@@ -871,17 +871,17 @@ gloom
 glory
 gloss
 glove
-glyph: 1.32 
+glyph
 gnash
 gnome
 godly
 going
-golem: 1.36 
+golem
 golly
 gonad
 goner
 goody
-gooey: 1.99 
+gooey
 goofy
 goose
 gorge
@@ -896,7 +896,7 @@ grand
 grant
 grape
 graph
-grasp: 1.06 
+grasp
 grass
 grate
 grave
@@ -906,16 +906,16 @@ great
 greed
 green
 greet
-grief: 1.27 
+grief
 grill
-grime: 0.98 
+grime
 grimy
 grind
 gripe
 groan
 groin
 groom
-grope: 1.3 
+grope
 gross
 group
 grout
@@ -923,7 +923,7 @@ grove
 growl
 grown
 gruel
-gruff: 1.21 
+gruff
 grunt
 guard
 guava
@@ -931,7 +931,7 @@ guess
 guest
 guide
 guild
-guile: 1.44 
+guile
 guilt
 guise
 gulch
@@ -940,7 +940,7 @@ gumbo
 gummy
 guppy
 gusto
-gusty: 1.36 
+gusty
 gypsy
 habit
 hairy
@@ -951,13 +951,13 @@ hardy
 harem
 harpy
 harry
-harsh: 2.57 
+harsh
 haste
 hasty
 hatch
 hater
 haunt
-haute: 1.32 
+haute
 haven
 havoc
 hazel
@@ -966,7 +966,7 @@ heard
 heart
 heath
 heave
-heavy: 2.29 
+heavy
 hedge
 hefty
 heist
@@ -993,7 +993,7 @@ hotel
 hotly
 hound
 house
-hovel: 2.44 
+hovel
 hover
 howdy
 human
@@ -1016,12 +1016,12 @@ icing
 ideal
 idiom
 idiot
-idler: 38.51 
+idler
 idyll
 igloo
 iliac
 image
-imbue: 2.46 
+imbue
 impel
 imply
 inane
@@ -1029,7 +1029,7 @@ inbox
 incur
 index
 inept
-inert: 1.66 
+inert
 infer
 ingot
 inlay
@@ -1066,7 +1066,7 @@ junta
 junto
 juror
 kappa
-karma: 3.06 
+karma
 kayak
 kebab
 khaki
@@ -1079,7 +1079,7 @@ knead
 kneed
 kneel
 knelt
-knife: 3.68 
+knife
 knock
 knoll
 known
@@ -1087,7 +1087,7 @@ koala
 krill
 label
 labor
-laden: 1.7 
+laden
 ladle
 lager
 lance
@@ -1099,7 +1099,7 @@ larva
 lasso
 latch
 later
-lathe: 2.98 
+lathe
 latte
 laugh
 layer
@@ -1115,7 +1115,7 @@ least
 leave
 ledge
 leech
-leery: 3.94 
+leery
 lefty
 legal
 leggy
@@ -1145,7 +1145,7 @@ lobby
 local
 locus
 lodge
-lofty: 8.04 
+lofty
 logic
 login
 loopy
@@ -1161,22 +1161,22 @@ loyal
 lucid
 lucky
 lumen
-lumpy: 1.25 
+lumpy
 lunar
 lunch
 lunge
 lupus
 lurch
-lurid: 2.04 
+lurid
 lusty
 lying
 lymph
 lyric
 macaw
-macho: 1.81 
+macho
 macro
 madam
-madly: 2.41 
+madly
 mafia
 magic
 magma
@@ -1197,17 +1197,17 @@ manor
 maple
 march
 marry
-marsh: 1.23 
+marsh
 mason
 masse
-match: 1.38 
-matey: 2.29 
-mauve: 1.24 
+match
+matey
+mauve
 maxim
 maybe
 mayor
-mealy: 1.29 
-meant: 1.43 
+mealy
+meant
 meaty
 mecca
 medal
@@ -1215,15 +1215,15 @@ media
 medic
 melee
 melon
-mends: 7.94 
+mends
 mercy
 merge
 merit
 merry
 metal
 meter
-metro: 2.41 
-micro: 1.52 
+metro
+micro
 midge
 midst
 might
@@ -1232,11 +1232,11 @@ mimic
 mince
 miner
 minim
-minor: 2.35 
+minor
 minty
 minus
 mirth
-miser: 4.13 
+miser
 missy
 mocha
 modal
@@ -1244,12 +1244,12 @@ model
 modem
 mogul
 moist
-molar: 2.16 
+molar
 moldy
 money
 month
 moody
-moose: 2.58 
+moose
 moral
 moron
 morph
@@ -1332,7 +1332,7 @@ olden
 older
 olive
 ombre
-omega: 10.69 
+omega
 onion
 onset
 opera
@@ -1344,18 +1344,18 @@ order
 organ
 other
 otter
-ought: 2.58 
+ought
 ounce
 outdo
 outer
 outgo
 ovary
-ovate: 2.5 
+ovate
 overt
 ovine
 ovoid
 owing
-owner: 1.21 
+owner
 oxide
 ozone
 paddy
@@ -1389,7 +1389,7 @@ pearl
 pecan
 pedal
 penal
-pence: 1.11 
+pence
 penne
 penny
 perch
@@ -1402,7 +1402,7 @@ petty
 phase
 phone
 phony
-photo: 1.41 
+photo
 piano
 picky
 piece
@@ -1417,7 +1417,7 @@ piper
 pique
 pitch
 pithy
-pivot: 1.54 
+pivot
 pixel
 pixie
 pizza
@@ -1448,31 +1448,31 @@ polar
 polka
 polyp
 pooch
-poppy: 2.05 
+poppy
 porch
 poser
 posit
 posse
 pouch
-pound: 1.56 
+pound
 pouty
 power
 prank
 prawn
-preen: 1.49 
+preen
 press
 price
 prick
 pride
-pried: 1.18 
+pried
 prime
 primo
 print
-prior: 1.0 
+prior
 prism
 privy
 prize
-probe: 1.35 
+probe
 prone
 prong
 proof
@@ -1484,7 +1484,7 @@ proxy
 prude
 prune
 psalm
-pubic: 1.44 
+pubic
 pudgy
 puffy
 pulpy
@@ -1500,7 +1500,7 @@ pushy
 putty
 pygmy
 quack
-quail: 3.09 
+quail
 quake
 qualm
 quark
@@ -1508,14 +1508,14 @@ quart
 quash
 quasi
 queen
-queer: 2.55 
+queer
 quell
 query
 quest
 queue
 quick
-quiet: 1.46 
-quill: 1.55 
+quiet
+quill
 quilt
 quirk
 quite
@@ -1528,7 +1528,7 @@ racer
 radar
 radii
 radio
-rainy: 1.41 
+rainy
 raise
 rajah
 rally
@@ -1550,7 +1550,7 @@ react
 ready
 realm
 rearm
-rebar: 7.84 
+rebar
 rebel
 rebus
 rebut
@@ -1581,12 +1581,12 @@ retry
 reuse
 revel
 revue
-rhino: 1.61 
+rhino
 rhyme
 rider
 ridge
 rifle
-right: 10.6 
+right
 rigid
 rigor
 rinse
@@ -1622,8 +1622,8 @@ ruddy
 ruder
 rugby
 ruler
-rumba: 2.02 
-rumor: 1.7 
+rumba
+rumor
 rupee
 rural
 rusty
@@ -1641,15 +1641,15 @@ sandy
 saner
 sappy
 sassy
-satin: 1.56 
+satin
 satyr
 sauce
 saucy
 sauna
-saute: 1.15 
+saute
 savor
-savoy: 1.31 
-savvy: 7.71 
+savoy
+savvy
 scald
 scale
 scalp
@@ -1695,36 +1695,36 @@ sever
 sewer
 shack
 shade
-shady: 2.01 
-shaft: 2.03 
+shady
+shaft
 shake
 shaky
 shale
 shall
 shalt
 shame
-shank: 1.59 
+shank
 shape
 shard
-share: 1.48 
+share
 shark
-sharp: 1.64 
+sharp
 shave
 shawl
 shear
 sheen
-sheep: 1.43 
+sheep
 sheer
-sheet: 1.28 
+sheet
 sheik
 shelf
 shell
-shied: 2.17 
+shied
 shift
-shine: 1.37 
+shine
 shiny
 shire
-shirk: 2.37 
+shirk
 shirt
 shoal
 shock
@@ -1732,18 +1732,18 @@ shone
 shook
 shoot
 shore
-shorn: 2.89 
+shorn
 short
 shout
 shove
 shown
 showy
-shrew: 1.74 
+shrew
 shrub
 shrug
 shuck
-shunt: 1.3 
-shush: 2.19 
+shunt
+shush
 shyly
 siege
 sieve
@@ -1756,14 +1756,14 @@ sinew
 singe
 siren
 sissy
-sixth: 16.2 
+sixth
 sixty
 skate
 skier
 skiff
 skill
 skimp
-skirt: 2.06 
+skirt
 skulk
 skull
 skunk
@@ -1778,13 +1778,13 @@ sleep
 sleet
 slept
 slice
-slick: 2.08 
+slick
 slide
 slime
 slimy
 sling
 slink
-sloop: 2.73 
+sloop
 slope
 slosh
 sloth
@@ -1795,18 +1795,18 @@ slurp
 slush
 slyly
 smack
-small: 1.53 
+small
 smart
 smash
 smear
 smell
-smelt: 2.07 
+smelt
 smile
-smirk: 1.82 
+smirk
 smite
 smith
 smock
-smoke: 1.2 
+smoke
 smoky
 smote
 snack
@@ -1823,14 +1823,14 @@ snipe
 snoop
 snore
 snort
-snout: 7.99 
+snout
 snowy
-snuck: 1.21 
+snuck
 snuff
 soapy
 sober
 soggy
-solar: 1.37 
+solar
 solid
 solve
 sonar
@@ -1847,7 +1847,7 @@ spank
 spare
 spark
 spasm
-spawn: 3.66 
+spawn
 speak
 spear
 speck
@@ -1855,24 +1855,24 @@ speed
 spell
 spelt
 spend
-spent: 0.83 
+spent
 sperm
 spice
 spicy
-spied: 1.68 
+spied
 spiel
-spike: 1.64 
+spike
 spiky
 spill
 spilt
 spine
-spiny
+spiny 
 spire
 spite
 splat
 split
 spoil
-spoke: 1.49 
+spoke
 spoof
 spook
 spool
@@ -1886,24 +1886,24 @@ sprig
 spunk
 spurn
 spurt
-squad: 2.96 
+squad
 squat
 squib
 stack
-staff: 1.15 
+staff
 stage
 staid
-stain
-stair: 1.47 
+stain 
+stair
 stake
 stale
 stalk
-stall: 1.56 
+stall
 stamp
 stand
-stank: 1.91 
-stare: 1.77 
-stark: 0.98 
+stank
+stare
+stark
 start
 stash
 state
@@ -1921,7 +1921,7 @@ stern
 stick
 stiff
 still
-stilt
+stilt 
 sting
 stink
 stint
@@ -1964,7 +1964,7 @@ sumac
 sunny
 super
 surer
-surge: 1.7 
+surge
 surly
 sushi
 swami
@@ -1976,9 +1976,9 @@ swear
 sweat
 sweep
 sweet
-swell: 2.19 
+swell
 swept
-swift: 6.13 
+swift
 swill
 swine
 swing
@@ -1993,24 +1993,24 @@ swung
 synod
 syrup
 tabby
-table: 2.76 
+table
 taboo
 tacit
-tacky
+tacky 
 taffy
 taint
 taken
 taker
 tally
 talon
-tamer: 1.93 
+tamer
 tango
 tangy
 taper
-tapir: 1.45 
+tapir
 tardy
 tarot
-taste: 1.5 
+taste
 tasty
 tatty
 taunt
@@ -2024,7 +2024,7 @@ tempo
 tenet
 tenor
 tense
-tenth: 4.08 
+tenth
 tepee
 tepid
 terra
@@ -2051,7 +2051,7 @@ threw
 throb
 throw
 thrum
-thumb: 3.37 
+thumb
 thump
 thyme
 tiara
@@ -2082,9 +2082,9 @@ torus
 total
 totem
 touch
-tough: 1.55 
+tough
 towel
-tower
+tower 
 toxic
 toxin
 trace
@@ -2098,8 +2098,8 @@ tramp
 trash
 trawl
 tread
-treat: 2.61 
-trend: 1.24 
+treat
+trend
 triad
 trial
 tribe
@@ -2108,8 +2108,8 @@ trick
 tried
 tripe
 trite
-troll: 2.69 
-troop: 1.42 
+troll
+troop
 trope
 trout
 trove
@@ -2136,7 +2136,7 @@ tweak
 tweed
 tweet
 twice
-twine: 1.31 
+twine
 twirl
 twist
 twixt
@@ -2152,7 +2152,7 @@ undid
 undue
 unfed
 unfit
-unify: 2.1 
+unify
 union
 unite
 unity
@@ -2178,7 +2178,7 @@ vague
 valet
 valid
 valor
-value: 1.29 
+value
 valve
 vapid
 vapor
@@ -2189,7 +2189,7 @@ venom
 venue
 verge
 verse
-verso: 1.16 
+verso
 verve
 vicar
 video
@@ -2205,22 +2205,22 @@ visit
 visor
 vista
 vital
-vivid: 1.22 
+vivid
 vixen
-vocal: 1.2 
+vocal
 vodka
-vogue: 1.49 
+vogue
 voice
 voila
 vomit
 voter
 vouch
 vowel
-vying: 1.17 
+vying
 wacky
 wafer
 wager
-wagon: 1.63 
+wagon
 waist
 waive
 waltz
@@ -2231,33 +2231,33 @@ water
 waver
 waxen
 weary
-weave: 1.62 
-wedge: 4.14 
+weave
+wedge
 weedy
 weigh
 weird
 welch
 welsh
 whack
-whale: 1.44 
-wharf: 2.71 
+whale
+wharf
 wheat
 wheel
 whelp
-where: 1.15 
+where
 which
-whiff: 1.4 
+whiff
 while
 whine
 whiny
-whirl: 1.31 
+whirl
 whisk
 white
 whole
 whoop
 whose
 widen
-wider: 1.13 
+wider
 widow
 width
 wield
@@ -2281,10 +2281,10 @@ woozy
 wordy
 world
 worry
-worse: 2.85 
+worse
 worst
 worth
-would: 1.21 
+would
 wound
 woven
 wrack
@@ -2292,7 +2292,7 @@ wrath
 wreak
 wreck
 wrest
-wring: 1.0 
+wring
 wrist
 write
 wrong
@@ -2300,7 +2300,7 @@ wrote
 wrung
 wryly
 yacht
-yearn: 3.0 
+yearn
 yeast
 yield
 young
