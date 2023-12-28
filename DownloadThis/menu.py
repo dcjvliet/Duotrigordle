@@ -18,6 +18,7 @@ def mainMenu():
     pygame.font.Font.set_underline(font, True)
     pygame.font.Font.set_underline(small_font, True)
     key = ']'
+    ide = 0
     while True:
         for event in pygame.event.get():
             if event.type == pygame.QUIT:
@@ -44,7 +45,7 @@ def mainMenu():
                 elif 25 < x < 195 and 487 < y < 593:
                     pygame.quit()
                 elif 1576 < x < 1895 and 487 < y < 593:
-                    key = keybinds.setKeybind(key)
+                    ide, key = keybinds.setKeybind(ide, key)
                 elif 25 < x < 837 and 131 < y < 203:
                     num = recognition.numStartingWords()
                     starting_words = recognition.startingWords(num)
