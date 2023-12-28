@@ -53,7 +53,7 @@ alien
 align
 alike
 alive
-allay: 1.3 
+allay
 alley
 allot
 allow
@@ -163,7 +163,7 @@ baton
 batty
 bawdy
 bayou
-beach: 1.63 
+beach
 beady
 beard
 beast
@@ -484,7 +484,7 @@ crimp
 crisp
 croak
 crock
-crone: 1.41 
+crone
 crony
 crook
 cross
@@ -864,7 +864,7 @@ glaze
 gleam
 glean
 glide
-glint: 1.37 
+glint
 gloat
 globe
 gloom
@@ -1464,7 +1464,7 @@ press
 price
 prick
 pride
-pried: 2.31 
+pried
 prime
 primo
 print
@@ -1593,7 +1593,7 @@ rinse
 ripen
 riper
 risen
-riser: 3.69 
+riser
 risky
 rival
 river
@@ -1690,7 +1690,7 @@ serif
 serum
 serve
 setup
-seven: 3.2 
+seven
 sever
 sewer
 shack
@@ -1710,7 +1710,7 @@ share
 shark
 sharp
 shave
-shawl: 3.49 
+shawl
 shear
 sheen
 sheep
@@ -1866,7 +1866,7 @@ spiky
 spill
 spilt
 spine
-spiny: 1.82 
+spiny 
 spire
 spite
 splat
@@ -1893,7 +1893,7 @@ stack
 staff
 stage
 staid
-stain: 1.91 
+stain 
 stair
 stake
 stale
@@ -1921,7 +1921,7 @@ stern
 stick
 stiff
 still
-stilt: 2.86 
+stilt 
 sting
 stink
 stint
@@ -1996,7 +1996,7 @@ tabby
 table
 taboo
 tacit
-tacky: 1.71 
+tacky 
 taffy
 taint
 taken
@@ -2084,7 +2084,7 @@ totem
 touch
 tough
 towel
-tower: 4.53 
+tower 
 toxic
 toxin
 trace
@@ -2130,7 +2130,7 @@ tulle
 tumor
 tunic
 turbo
-tutor: 3.3 
+tutor
 twang
 tweak
 tweed
