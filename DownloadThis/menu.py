@@ -5,8 +5,7 @@ import accuracy
 import multitasking
 import keybinds
 import late_game
-# ADD CONFIG FILE FOR STARTING, RECOGNITION, AND MULTITASKING
-# ADD ACCESSIBLE WAY TO GET TOP TIMES
+
 
 def mainMenu():
     pygame.init()
