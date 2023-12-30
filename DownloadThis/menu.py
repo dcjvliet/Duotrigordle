@@ -5,6 +5,7 @@ import accuracy
 import multitasking
 import keybinds
 import late_game
+import top_times
 
 
 def mainMenu():
@@ -14,9 +15,11 @@ def mainMenu():
     screen.fill(color)
     font = pygame.font.Font('Arial.ttf', 80)
     small_font = pygame.font.Font('Arial.ttf', 55)
+    big_font = pygame.font.Font('Arial.ttf', 120)
     clock = pygame.time.Clock()
     pygame.font.Font.set_underline(font, True)
     pygame.font.Font.set_underline(small_font, True)
+    pygame.font.Font.set_underline(big_font, True)
     key = ']'
     ide = 0
     while True:
@@ -50,6 +53,9 @@ def mainMenu():
                     num = recognition.numStartingWords()
                     starting_words = recognition.startingWords(num)
                     late_game.lateGame(starting_words, num, key)
+                elif 663 < x < 1257 and 462 < y < 618:
+                    top_times.topTimes(ide)
+                    break
 
         screen.fill(color)
         text_surface_1 = font.render('Recognition Practice', True, (255, 255, 255))
@@ -68,7 +74,10 @@ def mainMenu():
         screen.blit(info_surface, (1895 - width, 540 - height / 2))
         text_surface_5 = small_font.render('Late Game Recognition Practice', True, (255, 255, 255))
         screen.blit(text_surface_5, (25, 131))
+        text_surface_6 = big_font.render('Top Times', True, (255, 255, 255))
+        screen.blit(text_surface_6, (663, 462))
         pygame.display.flip()
         clock.tick(60)
+
 
 mainMenu()
