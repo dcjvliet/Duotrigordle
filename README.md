@@ -31,5 +31,6 @@ DownloadThis at the top. Left click on the file **ONCE**. Then right click on th
     b) If you installed PyCharm, use these instructions. Off on the very bottom left corner, there should be a button that says terminal (it looks like a box with >_ in it). Click on this. In the box that appears, type "pip install pygame" and press enter. If tihs doesn't work for some reason type "pip3 install pygame".
 11. Now everything should be working correctly and all you need to do is run the file. For Visual Studio, go to **menu.py** and at the top **click the outlined green triangle** (it will be slightly to the left of the center of the screen). If you're on PyCharm, go to **menu.py** and at the top right **click the outlined white triangle**. If you find any bugs in the program, report them here or email me. Have fun!
 
-**DISCLAIMER**
+**DISCLAIMER**                                                                                          
+
 I made this software with my use in mind, so I cannot guarantee that it will work on your computer. As of writing this, it will only work for computers with resolutions of 1920x1080 or higher. This might change in the future.
