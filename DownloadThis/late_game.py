@@ -139,6 +139,8 @@ def lateGame(starting_words, num, key):
                                 time = float(parts[1])
                             except IndexError:
                                 time = 999999
+                            except ValueError:
+                                time = 999999
                             letters = parts[0]
                             real_word = letters.split('\n')
                             if answer == real_word[0] and round(counter, 2) < time:
