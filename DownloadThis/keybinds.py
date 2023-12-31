@@ -18,6 +18,7 @@ def setKeybind(index, key=']'):
     base = ['Visual Studio', 'PyCharm']
     ide_color = '#555555'
     ide = False
+    index = int(index)
     while True:
         for event in pygame.event.get():
             if event.type == pygame.QUIT:
