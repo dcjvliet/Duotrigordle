@@ -19,6 +19,9 @@ This is a practice that is designed to increase your typing speed and accuracy i
 **MULTITASKING PRACTICE**
 This practice is a bit interesting. This is strictly for speedrunners who want to go very fast. When speedrunning, it is possible to recognize a word, start typing it, and while you are typing, begin figuring out the next word. That is the goal of this practice. There will be two Wordles at once. The goal is to figure out the first one, and then as you are typing, figure out the next one. Try to keep this chain going for as long as possible. Eventually you will hit words that you don't instantly recognize, so don't expect to be able to do this constantly. **This practice is hard** and I would recommend doing a lot of recognition practice beforehand.
 
+**CONFIG**
+The config file is a recent change made so that presets can be saved and easily loaded for ease of use. However, due to my complete lack of coding ability, it has to be formatted a bery specific way. There is an example config file in "DownloadThis" and if you follow that example it should work fine. For settings, the first character is your reset key (in the example ]) and the second character is your IDE. If you are using Visual Studio, type 0. If you are using PyCharm, type 1.
+
 **DISCLAIMER**
 This is still a work in progress, and features are still being added or changed. It will not be bug free, as I did not rigorously test the software. If you found a bug, want to suggest a feature, or want to help with development/design feel free to email me at minestone4306gmail.com or dm me on discord at minestone4306. 
 
