@@ -314,3 +314,4 @@ def numStartingWords():
         pygame.display.flip()
         clock.tick(60)
     return num
+
