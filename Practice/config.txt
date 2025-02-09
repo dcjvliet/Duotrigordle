@@ -11,4 +11,4 @@ Late Game Recognition
 glent, brick, jumpy, waqfs, vozhd
 
 Settings
-], 1
+], 0

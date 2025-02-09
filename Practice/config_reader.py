@@ -1,6 +1,6 @@
 def configRead():
     try:
-        with open('config', 'r+') as config:
+        with open('config.txt', 'r+') as config:
             content = config.readlines()
             recognition = content[1]
             starting = content[4]

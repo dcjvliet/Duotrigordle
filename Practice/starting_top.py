@@ -13,7 +13,7 @@ def startingTop():
     back_arrow = pygame.image.load('back_arrow.png')
     top_times = []
     times = []
-    with open('starting_times', 'r') as best:
+    with open('starting_times.txt', 'r') as best:
         content = best.readlines()
         for i in range(10):
             for line in content:

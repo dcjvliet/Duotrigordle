@@ -1,0 +1,16 @@
+Time: 3.11
+Time: 3.45
+Time: 3.7
+Time: 3.71
+Time: 2.74
+Time: 2.68
+Time: 2.15
+Time: 2.04
+Time: 2.55
+Time: 2.06
+Time: 2.16
+Time: 2.64
+Time: 1.94
+Time: 1.64
+Time: 1.56
+Time: 1.66
