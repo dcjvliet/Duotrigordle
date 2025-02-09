@@ -1,9 +1,13 @@
-with open('change.txt', 'r') as f:
-    content = f.readlines()
+import json
+
+
+with open('wordlist.json', 'r') as f:
+    data = json.load(f)
+
+    with open('possible_answers.txt', 'w') as f2:
+        for word in data['default']:
+            f2.write(word.lower() + '\n')
+
     with open('possible_guesses.txt', 'w') as f2:
-        for line in content:
-            try:
-                f2.write(line.split('"')[1].lower())
-                f2.write('\n')
-            except IndexError:
-                print(line)
+        for word in data['valid']:
+            f2.write(word.lower() + '\n')
